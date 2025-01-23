@@ -10,7 +10,7 @@ public class sql1 {
             Class.forName("com.mysql.jdbc.Driver");
 
             // Establish a connection to the database
-            Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/", "root", "Arifa@7076");
+            Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/", "root", "//password of your sql workbench");
 
             // Create a statement object
             Statement stmt = con.createStatement();
