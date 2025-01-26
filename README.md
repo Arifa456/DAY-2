@@ -1,4 +1,6 @@
 **Here are the below questions which for the above codes:**
+
+
 **11. Library Management System**
 Description: A simple program to manage book records, borrowers, and transactions.
 Features:
@@ -26,5 +28,49 @@ Features:
 Classes: Account, Customer, Transaction.
 Methods: Deposit, withdraw, transfer funds.
 Use polymorphism for different account types (savings, current).
+types (savings, current).
+
+**15. E-commerce Product Management**
+Description: Manage products, customers, and orders in an e-commerce setting.
+Features:
+Classes: Product, Order, Customer.
+Methods: Add/remove products, create orders, calculate total cost.
+File handling to save order history.
+
+**16. Hospital Management System**
+Description: A simple system to manage patients, doctors, and appointments.
+Features:
+Classes: Patient, Doctor, Appointment.
+Methods: Schedule appointments, manage patient records.
+Exception handling for invalid operations.
+
+**17. Inventory Management System**
+Description: Track products and stock levels for a small business.
+Features:
+Classes: Product, Supplier, Inventory.
+Methods: Add/update/remove products, low-stock alerts.
+Use interfaces for supplier-related operations.
+
+**18. Online Quiz System**
+Description: A program to create and conduct quizzes.
+Features:
+Classes: Question, Quiz, User.
+Methods: Add questions, take quiz, calculate scores.
+Collections to store questions and results.
+
+**19. Vehicle Rental System**
+Description: Manage vehicle rentals for a business.
+Features:
+Classes: Vehicle, Customer, Rental.
+Methods: Rent/return vehicles, calculate rental costs.
+Use abstract classes for different vehicle
+types (e.g., car, bike).
+
+**10. Hotel Room Booking System**
+Description: Book and manage hotel rooms.
+Features:
+Classes: Room, Customer, Booking.
+Methods: Book/check-out rooms, check availability.
+Use inheritance for room types (standard, deluxe).
 
 **SQL code is for connecting the Eclipse to SQL workbench**
