@@ -1,4 +1,4 @@
-**Here are the below questions which for the above codes:**
+**Here are the below questions for the above codes:**
 
 
 **11. Library Management System**
